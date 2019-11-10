@@ -1,3 +1,4 @@
 file1
 updating line 2
 checking for merge conflits
+a msg for u awaits!!
